@@ -1,0 +1,19 @@
+THE SELECTED ITEMS FOR THE FRACTIONAL KNAPSACK
+Name OF item: Dried Seaweed (pack), cost: 80.00, quantity 2: 0.10
+Name OF item: Nori Sheets (pack)  , cost: 50.00, quantity 2: 0.10
+Name OF item: Protein Bars (box)  , cost: 80.00, quantity 2: 0.20
+Name OF item: Miso Paste (jar)    , cost: 80.00, quantity 2: 0.20
+Name OF item: Shrimp (whole)      , cost: 300.00, quantity 2: 0.80
+Name OF item: Spirits (bottle)    , cost: 300.00, quantity 2: 1.00
+Name OF item: Energy Bars (box)   , cost: 60.00, quantity 2: 0.20
+Name OF item: Pretzels (pack)     , cost: 60.00, quantity 2: 0.20
+Name OF item: Jerky (pack)        , cost: 140.00, quantity 2: 0.50
+Name OF item: Wine (bottle)       , cost: 250.00, quantity 2: 1.00
+Name OF item: Tea (pack)          , cost: 50.00, quantity 2: 0.20
+Name OF item: Snack Bars (box)    , cost: 50.00, quantity 2: 0.20
+Name OF item: Coffee (per bag)    , cost: 120.00, quantity 2: 0.50
+Name OF item: Quinoa (pack)       , cost: 120.00, quantity 2: 0.50
+Name OF item: Chicken (whole)     , cost: 200.00, quantity 2: 1.00
+Name OF item: Peanut Butter (jar) , cost: 100.00, quantity 2: 0.50
+Name OF item: Granola (packet)    , cost: 100.00, quantity 2: 0.50
+Name OF item: Cake (whole)        , cost: 200.00, quantity 2: 0.30

@@ -1,0 +1,158 @@
+CATEGORY_whole-(1), MAX CAPACITY-11
+| Bread             | 30       | 0.5         |
+| Milk              | 50       | 1.0         |
+| Eggs              | 40       | 0.5         |
+| Cheese            | 80       | 0.3         |
+| Yogurt            | 25       | 0.2         |
+| Apples            | 60       | 0.4         |
+| Bananas           | 40       | 0.3         |
+| Oranges           | 50       | 0.4         |
+| Tomatoes          | 40       | 0.3         |
+| Potatoes          | 30       | 0.6         |
+| Onions            | 20       | 0.4         |
+| Carrots           | 15       | 0.3         |
+| Lettuce           | 30       | 0.3         |
+| Spinach           | 40       | 0.2         |
+| Broccoli          | 50       | 0.5         |
+| Chicken           | 200      | 1.2         |
+| Beef              | 250      | 1.5         |
+| Pork              | 150      | 1.3         |
+| Fish              | 180      | 1.0         |
+| Shrimp            | 300      | 0.8         |
+| Rice              | 80       | 1.0         |
+| Pasta             | 60       | 0.5         |
+| Flour             | 40       | 0.5         |
+| Sugar             | 30       | 0.5         |
+| Salt              | 15       | 0.3         |
+| Pepper            | 20       | 0.1         |
+| Olive Oil         | 150      | 0.7         |
+| Butter            | 80       | 0.4         |
+| Jam               | 60       | 0.4         |
+| Peanut Butter     | 80       | 0.5         |
+| Cereal            | 80       | 0.3         |
+| Oatmeal           | 70       | 0.4         |
+| Granola           | 100      | 0.5         |
+| Tea               | 60       | 0.2         |
+| Coffee            | 120      | 0.3         |
+| Juice             | 80       | 1.0         |
+| Soda              | 40       | 1.5         |
+| Water             | 20       | 1.0         |
+| Beer              | 150      | 1.2         |
+| Wine              | 250      | 1.0         |
+| Chips             | 60       | 0.2         |
+| Crackers          | 50       | 0.3         |
+| Cookies           | 60       | 0.4         |
+| Chocolate         | 80       | 0.2         |
+| Ice Cream         | 120      | 0.8         |
+| Frozen Vegetables | 80       | 0.7         |
+| Frozen Fruits     | 100      | 0.6         |
+| Frozen Pizza      | 140      | 1.0         |
+| Frozen Meals      | 120      | 0.8         |
+| Canned Soup       | 60       | 0.5         |
+| Canned Vegetables | 50       | 0.4         |
+| Canned Fruits     | 50       | 0.4         |
+| Canned Beans      | 40       | 0.5         |
+| Canned Fish       | 100      | 0.6         |
+| Pasta Sauce       | 70       | 0.4         |
+| Salsa             | 50       | 0.3         |
+| Tortillas         | 50       | 0.4         |
+| Bread Rolls       | 30       | 0.3         |
+| Bagels            | 50       | 0.4         |
+| Croissants        | 60       | 0.3         |
+| Muffins           | 50       | 0.4         |
+| Cake              | 200      | 1.0         |
+| Pie               | 150      | 0.8         |
+| Brownies          | 120      | 0.5         |
+| Donuts            | 60       | 0.3         |
+| Honey             | 100      | 0.6         |
+| Maple Syrup       | 120      | 0.7         |
+| Mustard           | 40       | 0.2         |
+| Ketchup           | 40       | 0.3         |
+| Mayonnaise        | 60       | 0.4         |
+| Barbecue Sauce    | 70       | 0.4         |
+| Soy Sauce         | 50       | 0.3         |
+| Vinegar           | 40       | 0.3         |
+| Salad Dressing    | 60       | 0.4         |
+| Pickles           | 50       | 0.3         |
+| Olives            | 60       | 0.3         |
+| Hot Sauce         | 40       | 0.1         |
+| Worces Sauce      | 60       | 0.2         |
+| Marinades         | 80       | 0.3         |
+| Snack Bars        | 50       | 0.1         |
+| Energy Bars       | 60       | 0.2         |
+| Protein Bars      | 80       | 0.2         |
+| Trail Mix         | 100      | 0.3         |
+| Jerky             | 140      | 0.3         |
+| Popcorn           | 40       | 0.2         |
+| Pretzels          | 60       | 0.3         |
+| Dried Seaweed     | 80       | 0.1         |
+| Sushi Rice        | 70       | 1.0         |
+| Nori Sheets       | 50       | 0.1         |
+| Miso Paste        | 80       | 0.3         |
+| Tofu              | 60       | 0.5         |
+| Tempeh            | 90       | 0.6         |
+| Seitan            | 100      | 0.4         |
+| Quinoa            | 120      | 0.7         |
+| Lentils           | 40       | 0.5         |
+
+
+CATEGORY_frac-(2), MAX CAPACITY-8
+| Chicken (whole)     | 200      | 1           |
+| Beef (whole)        | 250      | 1.5         |
+| Pork (whole)        | 150      | 1.3         |
+| Fish (whole)        | 180      | 1           |
+| Shrimp (whole)      | 300      | 0.8         |
+| Beer (6-pack)       | 150      | 5           |
+| Wine (bottle)       | 250      | 1           |
+| Bottled Water       | 20       | 1           |
+| Soda (per can)      | 40       | 0.5         |
+| Spirits (bottle)    | 300      | 1           |
+| Cooking Oil (bottle)| 100      | 1           |
+| Vinegar (bottle)    | 50       | 1           |
+| Ketchup (bottle)    | 60       | 1           |
+| Mustard (bottle)    | 40       | 1           |
+| Mayonnaise (jar)    | 80       | 1           |
+| Bar  Sauce (bottle) | 70       | 1           |
+| Soy Sauce (bottle)  | 60       | 1           |
+| Rice (10kg sack)    | 500      | 10          |
+| Pasta (packet)      | 50       | 1           |
+| Flour (5kg bag)     | 200      | 5           |
+| Sugar (1kg bag)     | 40       | 1           |
+| Salt (1kg bag)      | 20       | 1           |
+| Pepper (per jar)    | 30       | 0.2         |
+| Olive Oil (bottle)  | 150      | 1           |
+| Butter (500g block) | 60       | 0.5         |
+| Jam (jar)           | 80       | 0.5         |
+| Peanut Butter (jar) | 100      | 0.5         |
+| Cereal (box)        | 70       | 0.5         |
+| Oatmeal (box)       | 60       | 0.5         |
+| Granola (packet)    | 100      | 0.5         |
+| Tea (pack)          | 50       | 0.2         |
+| Coffee (per bag)    | 120      | 0.5         |
+| Juice (bottle)      | 60       | 1           |
+| Cake (whole)        | 200      | 1           |
+| Pie (whole)         | 150      | 1           |
+| Brownies (tray)     | 100      | 1           |
+| Donuts (dozen)      | 80       | 1           |
+| Honey (bottle)      | 100      | 1           |
+| Maple Syrup (bottle)| 120      | 1           |
+| Snack Bars (box)    | 50       | 0.2         |
+| Energy Bars (box)   | 60       | 0.2         |
+| Protein Bars (box)  | 80       | 0.2         |
+| Trail Mix (pack)    | 100      | 0.5         |
+| Jerky (pack)        | 140      | 0.5         |
+| Popcorn (pack)      | 40       | 0.2         |
+| Pretzels (pack)     | 60       | 0.2         |
+| Dried Seaweed (pack)| 80       | 0.1         |
+| Sushi Rice (5kg bag)| 350      | 5           |
+| Nori Sheets (pack)  | 50       | 0.1         |
+| Miso Paste (jar)    | 80       | 0.2         |
+| Tofu (pack)         | 50       | 0.5         |
+| Tempeh (pack)       | 80       | 0.5         |
+| Seitan (pack)       | 100      | 0.5         |
+| Quinoa (pack)       | 120      | 0.5         |
+| Lentils (packet)    | 40       | 0.5         |
+| Pasta Sauce (jar)   | 70       | 0.5         |
+| Salsa (jar)         | 50       | 0.5         |
+| Tortillas (pack)    | 50       | 0.5         |
+| Bread Rolls (pack)  | 30       | 0.5         |
